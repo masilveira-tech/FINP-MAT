@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+.streamlit/secrets.toml
+extratos/
+data/
+ebooks/
+backup_incluso/
+*.enc
+*.db
+*.sqlite
+.finp_restore_pending/
